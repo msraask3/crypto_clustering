@@ -4,17 +4,17 @@
 
 ## 1.1 실험에 사용된 Python 라이브러리 버전
 
-'''
-Python : 3.9.7
-numpy : 1.20.3
-pandas: 1.4.2
-n2d: 0.3.2
-tensorflow: 2.9.1
-fastdtw: 0.3.4
-tslearn: 0.5.2
-pyclustering: 0.10.1.2
-cvxpy: 1.2.0
-'''
+```
+Python==3.9.7
+numpy==1.20.3
+pandas==1.4.2
+n2d==0.3.2
+tensorflow==2.9.1
+fastdtw==0.3.4
+tslearn==0.5.2
+pyclustering==0.10.1.2
+cvxpy==1.2.0
+```
 
 # 2. 코드 설명
 
